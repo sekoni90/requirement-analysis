@@ -46,6 +46,8 @@ Examples of non-functional requirements for a booking management system:
 ## Use Case Diagrams
 A use case diagram is a graphical representation of the system's functional requirements. It shows the interactions between the system's actors and the system's use cases.
 
+![Use Case Diagram](alx-booking-uc.png)
+
 ## Acceptance Criteria
 Acceptance criteria are the conditions that must be met for a system to be accepted by the users and stakeholders. They define the system's functional and non-functional requirements.
 
